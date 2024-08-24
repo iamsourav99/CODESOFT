@@ -1,1 +1,1 @@
-# CODSOFT
+# Projects Based on Core Java
